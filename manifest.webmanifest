@@ -1,0 +1,16 @@
+{
+  "name": "Kuitansi Payroll — Kantor Notaris PPAT",
+  "short_name": "Kuitansi",
+  "description": "Aplikasi cetak kuitansi payroll (slip gaji) A4 offline-first untuk staf Kantor Notaris PPAT.",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#f8fafc",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    { "src": "pwa-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "pwa-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "pwa-maskable-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
